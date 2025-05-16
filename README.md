@@ -3,6 +3,9 @@
 ## Guides:
 https://blog.ayra.eu.org/project/openwrt-for-r05-r051-r0516-1746871678/
 
+## Serial
+![image](https://github.com/user-attachments/assets/ea521886-231f-44f1-ba62-66c3169e3068)
+
 Serial output (OpenWrt)
 ```
 NAND boot... transferring control
